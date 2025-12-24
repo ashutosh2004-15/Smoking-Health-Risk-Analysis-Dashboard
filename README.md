@@ -119,7 +119,5 @@ This project helped me improve:
 ## Contact
 
 If you’d like to share feedback, ideas, or collaborate:
-
-**Ashutosh Kumar Jalan**
-🔗 GitHub: *[Add your GitHub profile link]*
-🔗 LinkedIn: *[Add your LinkedIn profile link]*
+📫 Let's connect:
+- LinkedIn: [Ashutosh Kumar Jalan](https://www.linkedin.com/in/ashutoshjalan-/)
